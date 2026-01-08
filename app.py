@@ -196,4 +196,4 @@ with tab2:
         else:
             st.info("Aucune transcription encore")
     else:
-        st.info("Aucune transcription encore")
+        st.info("Aucune transcription encore") 
